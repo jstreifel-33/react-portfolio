@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Joseph Streifel. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello There!",
+      "description": "Hello, my name is Joseph Streifel and I'm a web developer. Before starting my career in tech, I worked in the calibration industry both in the United States Marine Corps and in the private sector. While working in calibration, I developed a strong attention to detail and gained experience with quality systems and compliance to technical standards, such as ISO 17025 and ANSI Z540.3. I decided to transition to software engineering because I wanted to take on a new challenge in a field where I can continue to grow professionally. Web development is my current focus and I'd like to bring the skills I've gained to a tech company in the greater Washington area. I'm passionate about personal growth and plan to learn and teach as much as I can wherever I go, while providing high quality work and products in whatever setting I find myself in.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
