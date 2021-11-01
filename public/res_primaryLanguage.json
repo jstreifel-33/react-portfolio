@@ -11,70 +11,74 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Pat's Famous Salmon Cookies",
+        "startDate": "2021",
+        "description": "One of my first web development projects, when I was starting to learn JavaScript for the first time. Designed as a cookie shop website for my fictional friend Pat, the sales page simulates hourly cookie sales by using user provided data and renders it to a table. New locations can be added to the table by user submission of the form.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/cookie-shop/p1.png",
+          "images/portfolio/cookie-shop/p2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Bus Mall",
+        "startDate": "2021",
+        "description": "Project assembled as part of a class assignment. Designed as a consumer survey that prompts the user to choose one of three potential products. Present session results and aggregate results, based on local storage.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/bus-mall/p1.png",
+          "images/portfolio/bus-mall/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/jstreifel-33/bus-mall",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Meditation Station",
+        "startDate": "2021",
+        "description": "The first open ended group project that I participated in. This site is designed to provide the user with a customizable meditation page. Allows the user to pick from a variety of locations and changes the sky-box based on time of day.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/meditation-station/p1.png",
+          "images/portfolio/meditation-station/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ChillVenture/Meditation-Station",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }

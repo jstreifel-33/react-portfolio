@@ -16,21 +16,21 @@ Hello and welcome to the repository for my React Portfolio site! This site is in
 ### Feature 2: About Me Page
 
 * Estimate of time needed to complete: 1 hour
-* Start time: 8:14 PM
-* Finish time: 
-* Actual time needed to complete: 
+* Start time: 5:27 PM
+* Finish time: 6:33 PM
+* Actual time needed to complete: 1 hour 6 minutes
 
 ### Feature 3: Projects Section
 
 * Estimate of time needed to complete: 1 hour
-* Start time: 
-* Finish time: 
+* Start time: 6:36 PM
+* Finish time: 8:04 PM
 * Actual time needed to complete: 
 
 ### Feature 4: Skills and Experience
 
 * Estimate of time needed to complete: 1.5 hours
-* Start time: 
+* Start time: 8:05 PM
 * Finish time: 
 * Actual time needed to complete: 
 
