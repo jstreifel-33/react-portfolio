@@ -85,37 +85,35 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Simco Electronics",
+        "icon": "fas fa-microchip experience-icon",
+        "title": "Lead Calibration Technician",
+        "years": "03.2018 - 07.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Calibration", "Quality Systems"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Aviation/Biomedical Electronics",
+          "Lean Six Sigma",
+          "ISO 17025",
+          "ANSI Z540.3",
+          "Quality Systems"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "icon": "fab fa-react experience-icon",
+        "title": "Web Developer",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 7/8"
+          "HTML5", "React"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML5",
+          "CSS3",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Bootstrap"
         ]
       }
     ]
