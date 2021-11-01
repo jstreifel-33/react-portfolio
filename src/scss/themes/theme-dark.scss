@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #255C35;
       opacity: 0.8;
    }
 
@@ -41,6 +41,9 @@ body[data-theme="dark"] {
 
    #about {
       background-color: #7f7f7f;
+      h1{
+        background-color: #494949;
+      }
       h1 span {
          color: white;
       }
